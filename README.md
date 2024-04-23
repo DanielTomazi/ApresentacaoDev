@@ -1,7 +1,7 @@
 # Apresentação Daniel Tomazi
-Acesse a página aqui --> https://apresentacao-dev-kappa.vercel.app
+Acesse a página aqui --> https://apresentacao-dev-kappa.vercel.app (Esse foi um de meus primeiros projetos, atualmente possuo um portfólio mais bem estruturado, contudo deixarei a aplicação no ar por questões de dimensão de portfólio).
 
-(Em breve postarei meu site propriamente com fins de ser um portifólio)
+(Meu portfólio atual: https://devdanieltomazi.vercel.app/)
 
 ![image](https://github.com/DanielTomazi/ApresentacaoDev/blob/main/Assets/img-demo-port.png)
 ******************
